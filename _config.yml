@@ -29,6 +29,7 @@ github_username:  senthilkumar-dimitra
 
 # Build settings
 theme: minima
+  - dark
 plugins:
   - jekyll-feed
 
